@@ -3,14 +3,13 @@
  
 ### Hola 👋 Soy Jose Arana
 
-> Soy un apasianoado por el desarrolo web.
+> Navegando entre líneas de código, construyendo el futuro web.
 <br />
 
-- 🌱 &nbsp;
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-
-<br><br><br><br><br><br><br><br>
+- 🧐 Descubriendo nuevos horizontes en el mundo del desarrollo web.
+- 💻 Aprendiendo y creciendo en el universo de la tecnología.
+- 📫 ¡Hablemos! **jm.aranav@gmail.com**, estoy aquí para colaborar en proyectos emocionantes.
+- 📝 En constante estudio.
 
 ## Uso de Tecnologias
 
