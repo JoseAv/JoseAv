@@ -9,7 +9,7 @@
 - 🧐 Descubriendo nuevos horizontes en el mundo del desarrollo web.
 - 💻 Aprendiendo y creciendo en el universo de la tecnología.
 - 📫 ¡Hablemos! **jm.aranav@gmail.com**, estoy aquí para colaborar en proyectos emocionantes.
-- 📝 Ahora mismo Desarrolando.
+- 📝 Ahora mismo desarrolando.
 
 ## Uso de Tecnologias
 
