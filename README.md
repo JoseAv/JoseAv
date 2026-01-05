@@ -2,18 +2,21 @@
 <img width="1280" height="320" alt="Banner" src="https://github.com/user-attachments/assets/dd22237b-61f1-4f04-a92d-fedec9004bbb" />
 
 
- <h1 align="left">Hola a todos 👋 <a href="https://joseav.vercel.app/" target="_blank" rel="noopener noreferrer" >Jose Arana</a>
+ <h1 align="center">Hola a todos 👋 <a href="https://joseav.vercel.app/" target="_blank" rel="noopener noreferrer" >Jose Arana</a>
  <a href="https://joseav.vercel.app/"></a></h2>
+<br>
 
 
 ## <b>About Me</b>
  Soy Jose Arana, estudiante de ingeneria en sistemas, apasionado por el desarrollo de software. Actualmente estoy explorando nuevos retos. Estoy enfocado en coloaborar y participar en la comunidad de desarrollo, cuento con mas de un 1 año de experiencia.
-
+<br>
+<br>
  
 - 🌐 Desarrollador full stack
 - 💻 Estudiante de ingenieria en sisetmmas
 - 🎸 Especializado en JavaScript
 
+<br>
 
 ## Tecnologias 
 
@@ -48,3 +51,12 @@
  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /> 
 
 </span>
+<br>
+
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+------
+
