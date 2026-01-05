@@ -2,17 +2,24 @@
 <img width="1280" height="320" alt="Banner" src="https://github.com/user-attachments/assets/dd22237b-61f1-4f04-a92d-fedec9004bbb" />
 
 
-<h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Jose Arana</a>
+ <h1 align="left">Hola a todos 👋 <a href="https://joseav.vercel.app/" target="_blank" rel="noopener noreferrer" >Jose Arana</a>
  <a href="https://joseav.vercel.app/"></a></h2>
 
+
+## <b>About Me</b>
+ Soy Jose Arana, estudiante de ingeneria en sistemas, apasionado por el desarrollo de software. Actualmente estoy explorando nuevos retos. Estoy enfocado en coloaborar y participar en la comunidad de desarrollo, cuento con mas de un 1 año de experiencia.
+
+ 
 - 🌐 Desarrollador full stack
 - 💻 Estudiante de ingenieria en sisetmmas
 - 🎸 Especializado en JavaScript
 
 
-### Tecnologias 
+## Tecnologias 
 
-#### Front-end
+
+### Front-end
+
 <span>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -24,7 +31,8 @@
 </span>
 <br>
 
-#### Back-end
+### Back-end
+
 <span>
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
@@ -33,7 +41,8 @@
 </span>
 <br>
 
-#### Other
+### Other
+
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /> 
