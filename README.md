@@ -7,7 +7,7 @@
 
 - 🌐 Desarrollador full stack
 - 💻 Estudiante de ingenieria en sisetmmas
-- 🎸 Especializado en JavaScrip
+- 🎸 Especializado en JavaScript
 
 
 ### Tecnologias 
