@@ -1,15 +1,14 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### Hola 👋 Soy Jose Arana
+<img width="1280" height="320" alt="Banner" src="https://github.com/user-attachments/assets/dd22237b-61f1-4f04-a92d-fedec9004bbb" />
 
-> Navegando entre líneas de código, construyendo el futuro web.
-<br />
 
-- 🧐 Descubriendo nuevos horizontes en el mundo del desarrollo web.
-- 💻 Aprendiendo y creciendo en el universo de la tecnología.
-- 📫 ¡Hablemos! **jm.aranav@gmail.com**, estoy aquí para colaborar en proyectos emocionantes.
-- 📝 Ahora mismo desarrollando.
+<h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Jose Arana</a>
+ <a href="https://joseav.vercel.app/"></a></h2>
+
+- 🌐 I'm a Front-end Web Developer
+- 💻 I’m currently learning Webflow
+- 🎸 I love to play guitar and produce music!
+
 
 ## Uso de Tecnologias
 
@@ -22,7 +21,6 @@
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img  alt="sass" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
