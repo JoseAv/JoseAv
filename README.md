@@ -1,11 +1,9 @@
 
 <img width="1280" height="320" alt="Banner" src="https://github.com/user-attachments/assets/dd22237b-61f1-4f04-a92d-fedec9004bbb" />
 
-
- <h1 align="center">Hola a todos 👋 <a href="https://joseav.vercel.app/" target="_blank" rel="noopener noreferrer" >Jose Arana</a>
- <a href="https://joseav.vercel.app/"></a></h2>
-<br>
-
+<h1 align="center" style="border-bottom: none; padding-bottom: 0;">
+  Hola a todos 👋 <a href="https://joseav.vercel.app/" target="_blank" rel="noopener noreferrer">Jose Arana</a>
+</h1>
 
 ## <b>About Me</b>
  Soy Jose Arana, estudiante de ingeneria en sistemas y cuento con mas de un 1 año de experiencia laboral. Apasionado por el desarrollo de software. Actualmente estoy explorando nuevos retos. Estoy enfocado en colaborar y participar en la comunidad de desarrollo.
