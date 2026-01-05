@@ -8,7 +8,7 @@
 
 
 ## <b>About Me</b>
- Soy Jose Arana, estudiante de ingeneria en sistemas, apasionado por el desarrollo de software. Actualmente estoy explorando nuevos retos. Estoy enfocado en coloaborar y participar en la comunidad de desarrollo, cuento con mas de un 1 año de experiencia.
+ Soy Jose Arana, estudiante de ingeneria en sistemas y cuento con mas de un 1 año de experiencia laboral. Apasionado por el desarrollo de software. Actualmente estoy explorando nuevos retos. Estoy enfocado en colaborar y participar en la comunidad de desarrollo.
 <br>
 <br>
  
